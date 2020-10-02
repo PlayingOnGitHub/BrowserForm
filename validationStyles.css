@@ -1,0 +1,22 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form input {
+    width: 220px;
+    height: 20px;
+    margin-top:8px;
+}
+
+form label {
+    font-weight: bold;
+}
+
+.error {
+    border-color: red;
+}
+
+.highFive {
+    display: none;
+}
